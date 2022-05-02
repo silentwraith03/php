@@ -1,0 +1,9 @@
+<?php
+/* Program to find maximum of two numbers */
+	$a=10;
+	$b=20;
+	if ($a > $b)
+		echo $a." is maximum"; 	//. is used to concat
+	else
+		echo $b. " is maximum";
+?>
