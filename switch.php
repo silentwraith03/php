@@ -2,16 +2,16 @@
 $today = date("D");
 switch($today){
 	case "Mon":
-		echo "Today is Monday.";
+		echo "Today is Monday, wash dishes.";
 		break;
 	case "Tue":
-		echo "Today is Tuesday.";
+		echo "Today is Tuesday, do laundry .";
 		break;
 	case "Wed":
-		echo "Today is Wednesday.";
+		echo "Today is Wednesday, dust off ceiling.";
 		break;
 	case "Thu":
-		echo "Today is Thursday.";
+		echo "Today is Thursday, .";
 		break;
 	case "Fri":
 		echo "Today is Friday.";
